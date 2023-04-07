@@ -1,3 +1,4 @@
+![logo](https://github.com/itsPrakash2308/itsPrakash2308/blob/main/wallpaperflare.com_wallpaper%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Prakash Singh</h1>
 <h3 align="right">A data enthusiast currently working as a Data Annotator. Skilled in Data Analysis and annotation.</h3>
 <img align="right" alt = "coding" width = "400" src = "![image](https://user-images.githubusercontent.com/91363429/230631305-2ae4946b-8382-43ec-bc28-2ffe7433c717.png)>

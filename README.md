@@ -1,7 +1,7 @@
 ![logo](https://github.com/itsPrakash2308/itsPrakash2308/blob/main/wallpaperflare.com_wallpaper%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Prakash Singh</h1>
 <h3 align="right">A data enthusiast currently working as a Data Annotator. Skilled in Data Analysis and annotation.</h3>
-<img align="right" alt = "coding" width = "400" src = "![image](https://user-images.githubusercontent.com/91363429/230631305-2ae4946b-8382-43ec-bc28-2ffe7433c717.png)>
+<img align="right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/91363429/230636532-f8534a55-eaf2-4e5a-9fd7-729d7c89b183.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprakash2308&label=Profile%20views&color=0e75b6&style=flat" alt="itsprakash2308" /> </p>
 
 <h3 align="left">Connect with me:</h3>
